@@ -36,7 +36,7 @@ F1 Score|0.895
 ---|---
 Specificity|0.930
 ## Setup:
-1. the code is present in pointnet_github/pointnet2/pointnet2_pytorch (3).ipynb
-2. the data and the weights are present in the data/70-30  and data/80-20 for the 70-30 and the 80-20 split respectively 
-3. load train.npy,train_labels.npy,test.npy and test_labels.npy into  train_points,train_labels,test_points and test_labels respectively
+1. the code is present in `pointnet_github/pointnet2/pointnet2_pytorch (3).ipynb`
+2. the data and the weights are present in the `data/70-30`  and `data/80-20` for the 70-30 and the 80-20 split respectively 
+3. load `train.npy`,`train_labels.npy`,`test.npy` and `test_labels.npy` into  `train_points`,`train_labels`,`test_points` and `test_labels` respectively
 4. the model weights can also be loaded with the file present in the path mentioned in point 2
