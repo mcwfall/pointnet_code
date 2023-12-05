@@ -7,10 +7,14 @@ A detailed report on the project is given in this link:https://docs.google.com/d
 
 #### Metrics:
 Metric Name|Value
-
+---|---
 Accuracy|0.857
+---|---
 Precision|0.854
+---|---
 Recall|0.857
+---|---
 F1 Score|0.854
+---|---
 Specificity|0.9
 ## Setup:
