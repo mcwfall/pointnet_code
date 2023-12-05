@@ -21,5 +21,18 @@ Specificity|0.9
 
 ### 80-20 split:
 #### Training Graph:
+![image](https://github.com/mcwfall/pointnet_code/assets/83899953/ec3c65d1-59ae-4587-85c3-c7fec1386fec)
+
 #### Metrics:
+Metric Name|Value
+---|---
+Accuracy|0.897
+---|---
+Precision|0.902
+---|---
+Recall|0.897
+---|---
+F1 Score|0.895
+---|---
+Specificity|0.930
 ## Setup:
